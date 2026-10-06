@@ -12,7 +12,7 @@ void callbyval (int num)
 }
 
 
-int main()
+int main()# it is main
 {
     int a=10;
     int *ptr = &a;
